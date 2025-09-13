@@ -30,12 +30,13 @@ Ce projet illustre comment mettre en place un système de paiement complet dans 
 ---
 
 ## 📂 Structure du projet
+```css
 checkout_payment/
 │-- lib/
 │ ├── core/ # Gestion d’état
 │ ├── features/ # Services Stripe & PayPal
 │ └── main.dart # Point d’entrée
-
+```
 
 ## ⚡ Installation & Exécution
 
